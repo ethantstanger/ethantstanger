@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan-T-Stanger
 - 👀 I’m interested in programming and :musical_note:
-- 🌱 I’m currently learning C++ and SDL
+- 🌱 I’m currently learning C++, HTML, and Godot
 - 💞️ I’m looking to collaborate on nothing at the moment :cry:
 - 📫 How to reach me: ethantstanger@gmail.com
 
