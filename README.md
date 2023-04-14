@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ethan-T-Stanger
-- 👀 I’m interested in programming and :musical_note:
+- 👀 I’m interested in programming and music
 - 📫 How to reach me: ethantstanger@gmail.com
 
 <!---
