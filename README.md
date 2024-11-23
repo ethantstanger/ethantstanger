@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethan-T-Stanger
+- 👋 Hi, I’m @ethantstanger
 - 👀 I’m interested in programming and music
 - 📫 How to reach me: ethantstanger@gmail.com
 
